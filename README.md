@@ -1,6 +1,6 @@
 # CovarianceTracking-GP
 
-A tracking covariance based combining Gaussian Process made by me, Levy Gurgel and José Everardo.
+A covariance based tracking algorithm combining Gaussian Process made by me, Levy Gurgel and José Everardo.
 
 Published in http://cbic2017.org/papers/cbic-paper-103.pdf
 
